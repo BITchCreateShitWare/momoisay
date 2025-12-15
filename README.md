@@ -1,3 +1,7 @@
+# my own version that embed music to executable
+- https://gitee.com/EEPPEE_admin/momoisay-zako
+
+
 # momoisay
 *A CLI program written in C featuring talking Saiba Momoi from Blue Archive!!!*
 
